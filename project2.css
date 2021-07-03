@@ -1,0 +1,80 @@
+body
+{
+    background-image: url(https://cdn.wccftech.com/wp-content/uploads/2016/10/hacker.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.grand
+{
+    color: rgb(8, 194, 241);
+    border: white;
+    
+    padding : 80px;
+    margin : 10px ;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    border-radius: 10px;
+    width: 300px;
+    background-color: cyan ,rgba(0, 0,0, 20);
+
+}
+.myimg
+{
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    border-color: cyan;
+    position: absolute;
+    top: 0%;
+    left: 58.5%;
+    transform: translate(-100%,30%);
+    text-align: center;
+}
+.mylog
+{
+    text-shadow: 3px 2px 5px;
+    text-align: center;
+}
+.myinput
+{
+    width: 100%;
+    height: 30px;
+    border-radius: 20px;
+    font-size: medium;
+    
+}
+.mypassword
+{
+    text-shadow: 3px 2px 5px;
+    font-size: medium;
+}
+.mylabel1
+{
+    text-shadow: 3px 2px 5px;
+    padding-left: 8px;
+}
+.mylabel2
+{
+    text-shadow: 3px 2px 5px;
+    padding-left: 8px;
+}
+.mypass
+{
+    width: 100%;
+    height: 30px;
+    border-radius: 20px;
+}
+.mylogin
+{
+    width: 100%;
+    height: 40px;
+    border-radius: 20px;
+    font-weight: bold;
+    text-shadow: 3px 2px 5px;
+
+    background-image: url(https://cdn.wccftech.com/wp-content/uploads/2016/10/hacker.jpg);
+}
